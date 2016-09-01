@@ -1,4 +1,4 @@
-# family-rails [![Gem Version](https://badge.fury.io/rb/family-rails.png)](http://badge.fury.io/rb/family-rails)
+# family-rails [![Gem Version](https://badge.fury.io/rb/family-rails.svg)](http://badge.fury.io/rb/family-rails)
 
 family-rails provides the [famliy.scss](https://github.com/LukyVj/family.scss)
 set of Sass mixins to the Rails asset pipeline.
